@@ -29,6 +29,7 @@ INSTALLED_APPS = [
     'django_celery_beat', # Django 4.0 
     'django_celery_results',
     'movies',
+    'products'
 ]
 
 MIDDLEWARE = [
